@@ -146,7 +146,7 @@ the pace of the course.
 
 ## 5. Housekeeping: Filesystem and Bash Commands
 
-- :card_index: __Dates__: Feb 25-Mar 01
+- :card_index: __Dates__: Sep 30-Oct 04
 - :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands.
 - :file_folder: __Notes__:
     + [Filesystem Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-12-filesystem-basics.pdf)
@@ -172,7 +172,7 @@ the pace of the course.
 
 ## 6. Housekeeping: Version Control with Git and GitHub
 
-- :card_index: __Dates__: Mar 04-08
+- :card_index: __Dates__: Oct 07-11
 - :paperclip: __Topics__: We continue talking about filestructure topics, and we introduce basic notions of version control systems (VCS) using Git, and the companion hosting platform GitHub.
 On the Data side, we begin our discussion about Tables: the most common form in which data is stored, handled, and manipulated. Consequently, we need to talk about the typical storage formats of tabular data, and the relationship between tables and R data frames.
 - :file_folder: __Notes__:
@@ -187,7 +187,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :bulb: __Cheat sheet__:
     + [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
     + [git cheat sheet](cheatsheets/git-cheatsheet.pdf)
-- :mortar_board: __MIDTERM 1__: Friday Mar-08
+- :mortar_board: __MIDTERM 1__: Friday Oct-11
 
 
 
@@ -196,7 +196,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 7. Transition to Programming Basics for Data Analysis (part 1)
 
-- :card_index: __Dates__: Mar 11-15
+- :card_index: __Dates__: Oct 14-18
 - :paperclip: __Topics__: You don’t need to be an expert programmer to be a data scientist, but learning more about programming allows you to automate common tasks, and solve new problems with greater ease. We'll discuss how to write basic functions, the notion of R expressions, and an introduction to conditionals. 
 - :file_folder: __Notes__:
     + [Creating functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/06-creating-functions.md) (tutorial)
@@ -215,7 +215,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 8. Programming Basics for Data Analysis (part 2)
 
-- :card_index: __Dates__: Mar 18-22
+- :card_index: __Dates__: Oct 21-25
 - :paperclip: __Topics__: In addition to writing functions to reduce duplication in your code, you also need to learn about iteration, which helps you when you need to do the same operation several times. Namely, we review control flow structures such as `for` loops, `while` loops, `repeat` loops, and the `apply` family functions.
 - :file_folder: __Notes__:
     + [Introduction to loops](https://github.com/ucb-stat133/stat133-tutorials/blob/master/09-intro-to-loops.md) (tutorial)
@@ -233,18 +233,9 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 -----
 
 
-## Spring Recess
-
-- :card_index: __Dates__: Mar 25-29
-- :paperclip: __Topics__: _Recharge your batteries_
-
-
------
-
-
 ## 9. Testing Functions and Introduction to Shiny Apps
 
-- :card_index: __Dates__: Apr 01-05
+- :card_index: __Dates__: Oct 28-Nov 01
 - :paperclip: __Topics__: We begin with an introduction to the package `"testthat"` which provides a nice framework for testing functions. Jointly, we will discuss Shiny apps which provide an interesting companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser. In lab, you'll learn how to perform basic manipulation of strings. 
 - :file_folder: __Notes__:
     + [Intro to testing functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/11-testing-functions.md) (tutorial)
@@ -268,7 +259,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 10. More Shiny Apps and Introduction to Regular Expressions
 
-- :card_index: __Dates__: Apr 08-12
+- :card_index: __Dates__: Nov 04-08
 - :paperclip:  __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Additionally, we continue the discussion about character strings with a first contact to Regular Expressions. 
 - :file_folder: __Notes__:
     + [Introduction to random numbers](https://github.com/ucb-stat133/stat133-tutorials/blob/master/12-intro-to-random-numbers.md)
@@ -292,7 +283,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 11. More Regular Expressions
 
-- :card_index: __Dates__: Apr 15-19
+- :card_index: __Dates__: Nov 11-15
 - :paperclip:  __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. To unleash the power of strings manipulation, we need to take things to the next level and learn about Regular Expressions. Namely, Regular expressions are a tool that allows us to describe a certain amount of text called "patterns". We'll describe the basic concepts of regex and the common operations to match text patterns.
 - :file_folder: __Notes__:
     + [Long Jump World Record example](https://www.gastonsanchez.com/r4strings/cleaning.html)
@@ -312,7 +303,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 12. R packaging (part 1)
 
-- :card_index: __Dates__: Apr 22-26
+- :card_index: __Dates__: Nov 18-22
 - :paperclip: __Topics__: Packages are the fundamental units of reproducible R code. They include reusable functions, the documentation that describes how to use them, and sample data. In this part we'll start describing how to turn your code into an R package.
 - :file_folder: __Notes__:
     + [Programming S3 Classes](https://www.gastonsanchez.com/packyourcode/coin.html)
@@ -333,7 +324,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 
 ## 13. R Packaging (part 2)
 
-- :card_index: __Dates__: Apr 29-May 03
+- :card_index: __Dates__: Dec 02-06
 - :paperclip: __Topics__: Creating an R package can seem overwhelming at first. So we'll keep working on the creation of a relatively basic package. This will give you the opportunity to apply most of the concepts seen in the course.
 - :file_folder: __Notes__:
     + [Pack YouR Code](https://www.gastonsanchez.com/packyourcode) (by Sanchez)
