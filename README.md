@@ -58,7 +58,7 @@ the pace of the course.
     + [First contact with R](https://github.com/ucb-stat133/stat133-tutorials/blob/master/01-intro-to-R.md) (tutorial)
     + [Intro to Rmd files](https://github.com/ucb-stat133/stat133-tutorials/blob/master/02-intro-to-Rmd-files.md) (tutorial)
 - :microscope: __Lab__:
-    + [Getting started with R and RStudio](labs/lab01-R-basics.md) (due Feb-01, open till Feb-17)
+    + [Getting started with R and RStudio](labs/lab01-R-basics.md) (due Sep-06)
 - :newspaper: __Misc__:
     + [Introduction to R Markdown](http://rmarkdown.rstudio.com/lesson-1.html) (by RStudio)
 - :bulb: __Cheat sheet__: 
@@ -83,7 +83,7 @@ the pace of the course.
     + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
     + [Intro to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/itdt-2010-11-01.pdf) (preface, chapter 1, and chapter 5) (by Paul Murrell)
 - :microscope: __Lab__:
-    + [Getting started with vectors and factors](labs/lab02-vector-basics.md) (due Feb-08, open till Feb-17)
+    + [Getting started with vectors and factors](labs/lab02-vector-basics.md) (due Sep-13)
 - :newspaper: __Misc__:
     + [chapter 20: Vectors](http://r4ds.had.co.nz/vectors.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__: 
@@ -108,7 +108,7 @@ the pace of the course.
     + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
     + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
-    + [Data Frame Basics](labs/lab03-data-tables.md) (due Feb-17)
+    + [Data Frame Basics](labs/lab03-data-tables.md) (due Sep-20)
 - :newspaper: __Misc__:
     + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
     + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
@@ -132,7 +132,7 @@ the pace of the course.
 - :book: __Reading__:
     + ["ggplot2" lecture](https://github.com/ucb-stat133/stat133-slides/blob/master/ggplot-karthik.pdf) (by Karthik Ram)
 - :microscope: __Lab__:
-    + [Data Wrangling and Graphics](labs/lab04-dplyr-ggplot-basics.md) (due Feb-22)
+    + [Data Wrangling and Graphics](labs/lab04-dplyr-ggplot-basics.md) (due Sep-27)
 - :newspaper: __Misc__:
     + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham.pdf) (by Hadley Wickham)
 - :bulb: __Cheat sheet__:
@@ -158,13 +158,13 @@ the pace of the course.
     + [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) lessons 1-5 (by Ryan Chadwick)
     + [The Unix Shell](http://swcarpentry.github.io/shell-novice/) lessons 1-3 (by Software Carpentry)
 - :microscope: __Lab__:
-    + [Command Line Basics](labs/lab05-command-line-basics.md) (due Mar-01)
+    + [Command Line Basics](labs/lab05-command-line-basics.md) (due Oct-04)
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
     + [command line cheat sheet](cheatsheets/command-line-cheatsheet.pdf)
 - :dart: __WORK-OUT 1__:
-    + [GSW Shot Charts](hws/workout01.pdf) (due Mar-13)
+    + [GSW Shot Charts](hws/workout01.pdf) (due Oct-08)
 
 
 -----
