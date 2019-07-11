@@ -3,24 +3,16 @@
 
 ### Course Description
 
-__Stat 133: Concepts in Computing with Data__ is an introductory course to computational data analysis with an emphasis on five major cornerstones:
+__Stat 133: Concepts in Computing with Data__ is an introductory course to computational data analysis with an emphasis on four major cornerstones:
 
-- :wrench: Data Manipulation (wrangling, reshaping, tidying)
-- :bar_chart: Data Visualization (focus on statistical charts)
-- :computer: Programming Concepts (with emphasis on data analysis)
-- :rocket: Data Technologies (various sources/formats of data)
-- :bookmark_tabs: Reporting Tools (via dynamic documents)
+- :wrench: understand common data formats, and principles of data manipulation (wrangling, reshaping, tidying)
+- :bar_chart: understand how to visualize data and display statistical information
+- :computer: learn the basic principles for writing code, and programming concepts (with emphasis on data analysis)
+- :bookmark_tabs: use computational tools to carry out the data analysis cycle, organize your workflow,
+and become familiar with reporting tools (via dynamic documents)
 
-Because Stat 133 is one of the core courses of the Statistics Department, the underlying goal is to provide foundations for "computing with data" so that statistics-major students have the basic computational skills for subsequent upper division courses (e.g. Stat 150, 151A, 152, 153, 154, 155, 157, 158, 159). This involves teaching students how to:
 
-- understand common data formats,
-- use the computer extensively to conduct statistical analysis of data,
-- understand how to visualize data and display statistical information,
-- learn the basic principles for writing code,
-- organize your workflow,
-- focus on aspects of computing to conduct data analysis, NOT the 
-computational aspects of statistical methods,
-- use computational tools to carry out the data analysis cycle.
+Because Stat 133 is one of the core courses of the Statistics Department, the underlying goal is to provide foundations for "computing with data" so that statistics-major students have the basic computational skills for subsequent upper division courses (e.g. Stat 150, 151A, 152, 153, 154, 155, 157, 158, 159). 
 
 
 
@@ -28,7 +20,7 @@ computational aspects of statistical methods,
 
 This course does not have any prerequisites, although it would be nice if you have taken an introductory course in statistics (e.g. Stat 2, 20, 21, 131A). 
 
-The curriculum and format is designed specifically for students (ideally majoring in Statistics) __who have NOT taken computer science courses__. You don't need previous programming experience, and you also don't need previous data analysis experience. However, students with some exposure to programming concepts, and data analysis tend to understand certain concepts better.
+The curriculum and format is designed specifically for students (ideally majoring in Statistics and/or Data Science) __who have NOT taken computer science courses__. You don't need previous programming experience, and you also don't need previous data analysis experience. However, students with some exposure to programming concepts, and data analysis tend to understand certain concepts better.
 
 Students with some prior experience in either computational statistics or computing are welcome to enroll, though some parts of the course will feel extremely slow. Students who have taken computer science courses (e.g. CS C8, CS C100, CS 9H, CS 61a, CS 61b) should instead take a more advanced course.
 
