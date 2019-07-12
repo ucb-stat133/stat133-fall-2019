@@ -74,14 +74,13 @@ the pace of the course.
 ## 2. More Data Structures: Arrays, Lists, and Dataframes
 
 - :card_index: __Dates__: Sep 11-13 _(Holiday Sep-09)_
-- :paperclip: __Topics__: In this week you'll keep learning more about R data structures like arrays and lists. More specifically, we'll focus on fundamental concepts like atomicity, vectorization, recycling, and subsetting. And given that we are studying vectors and its cousins, we'll briefly review the traditional _base_ graphics approach that is based on R vectors.
+- :paperclip: __Topics__: In this week you'll keep learning more about R data structures like arrays and lists. More specifically, we'll focus on fundamental concepts like atomicity, vectorization, recycling, and subsetting.
 - :file_folder: __Notes__:
     + [Arrays and Factors](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-08-arrays-factors.pdf) and [Lists](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-09-lists.pdf)
     + Data Frames [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-10-data-frames1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-11-data-frames2.pdf)
-    + [Data Tables](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-23-data-tables.pdf) (introduction) and [Spreadsheets](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-data-spreadsheets.pdf)
 - :book: __Reading__:
     + [Intro to vectors](https://github.com/ucb-stat133/stat133-tutorials/blob/master/03-intro-to-vectors.md) (tutorial)
-    + [Intro to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/itdt-2010-11-01.pdf) (preface, chapter 1, and chapter 5) (by Paul Murrell)
+    + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
 - :microscope: __Lab__:
     + [Getting started with vectors and factors](labs/lab02-vector-basics.md) (due Sep-13)
 - :newspaper: __Misc__:
@@ -89,64 +88,15 @@ the pace of the course.
 - :bulb: __Cheat sheet__: 
     + [Base R](cheatsheets/base-r-cheatsheet.pdf)
 - :dart: __WARM-UP 2__:
-    + [Basic Data Objects](hws/warmup02.pdf) (due Sep-17)
+    + TBA (due Sep-17)
 
 
 -----
 
 
-## 3. Transforming and Visualizing Tabular Data
+## 3. Housekeeping: Filesystem and Bash Commands
 
 - :card_index: __Dates__: Sep 16-20
-- :paperclip: __Topics__: Because data tables are so ubiquitous, you will have the chance to practice some data manipulation operations on data frames. Also, we'll discuss some considerations when importing tables (in R). Likewise, we begin a comprehensive discussion on concepts for data visualization.
-- :file_folder: __Notes__:
-    + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
-    + [Datavis: Classic Examples](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-26-datavis-classic-examples.pdf) and [Introduction](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-27-datavis-intro.pdf)
-    + [Datavis: Encoding Data in Graphs](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-28-encoding-data-in-graphs.pdf)
-    + [Datavis: The Visual System](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-30-visual-system.pdf)
-- :book: __Reading__:
-    + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
-    + ["dplyr" tutorial slides](https://github.com/ucb-stat133/stat133-slides/blob/master/dplyr-wickham.pdf) (by Hadley Wickham)
-- :microscope: __Lab__:
-    + [Data Frame Basics](labs/lab03-data-tables.md) (due Sep-20)
-- :newspaper: __Misc__:
-    + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
-    + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
-- :bulb: __Cheat sheet__:
-    + [Data transformation cheat sheet](cheatsheets/data-transformation-cheatsheet.pdf)
-    + [Data visualization with ggplot2](cheatsheets/ggplot2-cheatsheet-2.1.pdf)
-- :dart: __WARM-UP 3__:
-    + [Basic Data Manipulation](hws/warmup03.pdf) (due Sep-24)
-
-
------
-
-
-## 4. More Visualization
-
-- :card_index: __Dates__: Sep 23-27 
-- :paperclip: __Topics__: We continue reviewing more concepts of data visualization. At the practical level, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. 
-- :file_folder: __Notes__:
-    + [Datavis: Using Color](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-32-using-color.pdf)
-    + [Datavis: Effective Charts](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-33-effective-charts.pdf)
-- :book: __Reading__:
-    + ["ggplot2" lecture](https://github.com/ucb-stat133/stat133-slides/blob/master/ggplot-karthik.pdf) (by Karthik Ram)
-- :microscope: __Lab__:
-    + [Data Wrangling and Graphics](labs/lab04-dplyr-ggplot-basics.md) (due Sep-27)
-- :newspaper: __Misc__:
-    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham.pdf) (by Hadley Wickham)
-- :bulb: __Cheat sheet__:
-    + [Data transformation cheat sheet](cheatsheets/data-transformation-cheatsheet.pdf)
-- :dart: __WARM-UP 4__:
-    + [More Data Wrangling](hws/warmup04.pdf) (due Oct-01)
-
-
------
-
-
-## 5. Housekeeping: Filesystem and Bash Commands
-
-- :card_index: __Dates__: Sep 30-Oct 04
 - :paperclip: __Topics__: Data Analysis Projects (DAPs) are made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands.
 - :file_folder: __Notes__:
     + [Filesystem Basics](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-12-filesystem-basics.pdf)
@@ -158,13 +108,63 @@ the pace of the course.
     + [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) lessons 1-5 (by Ryan Chadwick)
     + [The Unix Shell](http://swcarpentry.github.io/shell-novice/) lessons 1-3 (by Software Carpentry)
 - :microscope: __Lab__:
-    + [Command Line Basics](labs/lab05-command-line-basics.md) (due Oct-04)
+    + [Command Line Basics](labs/lab03-command-line-basics.md) (due Sep-20)
 - :newspaper: __Misc__:
     + [Linux Command Line tutorial](https://www.guru99.com/terminal-file-manager.html) (by Guru99)
 - :bulb: __Cheat sheet__:
     + [command line cheat sheet](cheatsheets/command-line-cheatsheet.pdf)
+- :dart: __WARM-UP 3__:
+    + TBA (due Sep-24)
+
+
+-----
+
+
+## 4. Data Tables: Transforming and Visualizing Tabular Data
+
+- :card_index: __Dates__: Sep 23-27
+- :paperclip: __Topics__: Because data tables are so ubiquitous, you will have the chance to practice some data manipulation operations on data frames. At the practical level, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Also, we'll discuss some considerations when importing tables (in R).
+- :file_folder: __Notes__:
+    + [Data Tables](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-23-data-tables.pdf) (introduction) and [Spreadsheets](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-data-spreadsheets.pdf)
+    + Importing tables [part 1](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-24-importing-tables1.pdf) and [part 2](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-25-importing-tables2.pdf)
+- :book: __Reading__:
+    + [Organizing data in spreadsheets](http://kbroman.org/dataorg/) (by Karl Broman)
+    + [Intro to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT/itdt-2010-11-01.pdf) (preface, chapter 1, and chapter 5) (by Paul Murrell)
+- :microscope: __Lab__:
+    + [Data Frame Basics](labs/lab04-data-tables.md) (due Sep-27)
+- :newspaper: __Misc__:
+    + [tibbles vignette](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
+    + [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) (by Hadley Wickham)
+- :bulb: __Cheat sheet__:
+    + [Data transformation cheat sheet](cheatsheets/data-transformation-cheatsheet.pdf)
+    + [Data visualization with ggplot2](cheatsheets/ggplot2-cheatsheet-2.1.pdf)
+- :dart: __WARM-UP 4__:
+    + TBA (due Oct-01)
+
+
+-----
+
+
+## 5. Data Visualization
+
+- :card_index: __Dates__: Sep 30-Oct 04 
+- :paperclip: __Topics__: We begin a comprehensive discussion on concepts for data visualization.  
+- :file_folder: __Notes__:
+    + [Datavis: Classic Examples](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-26-datavis-classic-examples.pdf) and [Introduction](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-27-datavis-intro.pdf)
+    + [Datavis: Encoding Data in Graphs](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-28-encoding-data-in-graphs.pdf)
+    + [Datavis: The Visual System](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-30-visual-system.pdf)
+    + [Datavis: Using Color](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-32-using-color.pdf)
+    + [Datavis: Effective Charts](https://github.com/ucb-stat133/stat133-slides/blob/master/stat133-33-effective-charts.pdf)
+- :book: __Reading__:
+    + ["ggplot2" lecture](https://github.com/ucb-stat133/stat133-slides/blob/master/ggplot-karthik.pdf) (by Karthik Ram)
+- :microscope: __Lab__:
+    + [Data Wrangling and Graphics](labs/lab04-dplyr-ggplot-basics.md) (due Sep-27)
+- :newspaper: __Misc__:
+    + [Tidy Data](https://github.com/ucb-stat133/stat133-misc/blob/master/tidy-data-wickham.pdf) (by Hadley Wickham)
+- :bulb: __Cheat sheet__:
+    + [Data transformation cheat sheet](cheatsheets/data-transformation-cheatsheet.pdf)
 - :dart: __WORK-OUT 1__:
-    + [GSW Shot Charts](hws/workout01.pdf) (due Oct-08)
+    + TBA (due Oct-15?)
 
 
 -----
@@ -181,7 +181,7 @@ On the Data side, we begin our discussion about Tables: the most common form in 
 - :book: __Reading__:
     + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
 - :microscope: __Lab__:
-    + [Git Basics](labs/lab06-git-basics.md) (due Mar-08)
+    + [Git Basics](labs/lab06-git-basics.md) (due Oct-11)
 - :newspaper: __Misc__:
     + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
