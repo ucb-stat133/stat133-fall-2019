@@ -120,7 +120,7 @@ the pace of the course.
 -----
 
 
-## 4. Data Tables: Transforming and Visualizing Tabular Data
+## 4. Data Tables: Storage, Organization, and Unix filters
 
 - :card_index: __Dates__: Sep 23-27
 - :paperclip: __Topics__: Because data tables are so ubiquitous, you will have the chance to practice some data manipulation operations on data frames. At the practical level, it's important that you learn how to manipulate them via R data frames in a more modern and syntactic way. How? By following the _data plying_ framework provided by the package `"dplyr"`. Also, we'll discuss some considerations when importing tables (in R).
