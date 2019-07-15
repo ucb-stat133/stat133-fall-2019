@@ -57,7 +57,7 @@
 
 ## 2. R Survival Skills
 
-- :card_index: __Dates__: Sep 04-11
+- :card_index: __Dates__: Sep 04-11, :warning: mostly in lab
 - :speech_balloon: __Topics__: In addition to the "Big Picture" concepts, you'll begin learning basic survival skills for R, get a first contact with the RStudio workspace, and become familiar with Markdown syntax.
 - :book: __Reading__:
     + [First contact with R](tutorials/01-intro-to-R.md) (tutorial)
@@ -156,7 +156,7 @@ Likewise, we will also describe more generic data objects such as lists.
 ## 6. Data Visualization
 
 - :card_index: __Dates__: Sep 30-Oct 04 
-- :speech_balloon: __Topics__: Paraprhasing the old saying "a graphic is word a thousand numbers". No other means of data representation allows us to understand data than visual displays. But in order to make good graphics we need to learn the fundamental concepts for data visualization.  
+- :speech_balloon: __Topics__: Paraphrasing the old saying "a graphic is word a thousand numbers". No other means of data representation allows us to understand data than visual displays. But in order to make good graphics we need to learn the fundamental concepts for data visualization.  
 - :pencil: __Notes__:
     + [Datavis: Classic Examples](slides/stat133-26-datavis-classic-examples.pdf) and [Introduction](slides/stat133-27-datavis-intro.pdf)
     + [Datavis: Encoding Data in Graphs](slides/stat133-28-encoding-data-in-graphs.pdf)
