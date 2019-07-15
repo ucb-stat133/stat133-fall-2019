@@ -57,7 +57,7 @@
 
 ## 2. R Survival Skills
 
-- :card_index: __Dates__: Sep 04-11, :warning: mostly in lab
+- :card_index: __Dates__: Sep 04-11, :warning: _mostly in lab_
 - :speech_balloon: __Topics__: In addition to the "Big Picture" concepts, you'll begin learning basic survival skills for R, get a first contact with the RStudio workspace, and become familiar with Markdown syntax.
 - :book: __Reading__:
     + [First contact with R](tutorials/01-intro-to-R.md) (tutorial)
@@ -95,7 +95,7 @@ Likewise, we will also describe more generic data objects such as lists.
 
 ## 3. Intro to Data Technologies (cont'd): Data Frames
 
-- :card_index: __Dates__: Sep 04-11
+- :card_index: __Dates__: Sep 04-11, :warning: _mostly in lab_
 - :speech_balloon: __Topics__: Besides atomic data objects, we also need to talk about R data frames which provide a nice structure to handle tabular data. You will learn how to manipulate data frames from two approaches: 1) classic bracket notation, and 2) in a more modern and syntactic way following the _data plying_ framework provided by the package `"dplyr"`.
 - :pencil: __Notes__:
     + Data Frames [part 1](slides/stat133-10-data-frames1.pdf) 
