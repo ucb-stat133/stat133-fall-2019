@@ -181,9 +181,6 @@ Likewise, we will also describe more generic data objects such as lists.
     + [Git Workflow](slides/stat133-20-git-workflow.pdf)
 - :book: __Reading__:
     + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
-- :microscope: __Lab__:
-    + [Git Basics](labs/lab06-git-basics.md) (due Oct-11)
-    + [Data Import](http://r4ds.had.co.nz/data-import.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
     + [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
     + [git cheat sheet](cheatsheets/git-cheatsheet.pdf)
