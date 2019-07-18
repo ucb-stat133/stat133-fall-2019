@@ -196,9 +196,9 @@ Likewise, we will also describe more generic data objects such as lists.
 - :card_index: __Dates__: Oct 14-18
 - :speech_balloon: __Topics__: You don’t need to be an expert programmer to be a data scientist, but learning more about programming allows you to automate common tasks, and solve new problems with greater ease. We'll discuss how to write basic functions, the notion of R expressions, and an introduction to conditionals. 
 - :pencil: __Notes__:
-    + [Creating functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/06-creating-functions.md) (tutorial)
-    + [Introduction to functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/07-intro-to-functions.md) (tutorial)
-    + [Introduction to R expressions and conditionals](https://github.com/ucb-stat133/stat133-tutorials/blob/master/08-intro-to-expressions-conditionals.md) (tutorial)
+    + [Creating functions](tutorials/06-creating-functions.md) (tutorial)
+    + [Introduction to functions](tutorials/07-intro-to-functions.md) (tutorial)
+    + [Introduction to R expressions and conditionals](tutorials/08-intro-to-expressions-conditionals.md) (tutorial)
 - :book: __Reading__:
     + [chapter 19: Functions](http://r4ds.had.co.nz/functions.html) (_R for Data Science_ by Grolemund and Wickham)
 
