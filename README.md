@@ -234,7 +234,7 @@ Likewise, we will also describe more generic data objects such as lists.
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
-    + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master/stringr-cheatsheet.pdf)
+    + [Stringr cheat sheet](cheatsheets/stringr-cheatsheet.pdf)
 
 
 -----
@@ -252,7 +252,7 @@ Likewise, we will also describe more generic data objects such as lists.
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
 - :bulb: __Cheat sheet__:
-    + [Stringr cheat sheet](https://github.com/ucb-stat133/stat133-cheatsheets/blob/master/stringr-cheatsheet.pdf)
+    + [Stringr cheat sheet](cheatsheets/stringr-cheatsheet.pdf)
 
 
 -----
