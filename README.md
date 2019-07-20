@@ -211,8 +211,8 @@ Likewise, we will also describe more generic data objects such as lists.
 - :card_index: __Dates__: Oct 21-25
 - :speech_balloon: __Topics__: In addition to writing functions to reduce duplication in your code, you also need to learn about iteration, which helps you when you need to do the same operation several times. Namely, we review control flow structures such as `for` loops, `while` loops, `repeat` loops, and the `apply` family functions.
 - :pencil: __Notes__:
-    + [Introduction to loops](https://github.com/ucb-stat133/stat133-tutorials/blob/master/09-intro-to-loops.md) (tutorial)
-    + [More about functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/10-more-functions.md) (tutorial)
+    + [Introduction to loops](tutorials/09-intro-to-loops.md) (tutorial)
+    + [More about functions](tutorials/10-more-functions.md) (tutorial)
     + [Functions](http://adv-r.had.co.nz/Functions.html) (_Advanced R_ by H. Wickham)
 - :book: __Reading__:
     + [Environments](http://adv-r.had.co.nz/Environments.html) (_Advanced R_ by H. Wickham)
