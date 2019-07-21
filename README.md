@@ -226,7 +226,7 @@ Likewise, we will also describe more generic data objects such as lists.
 - :card_index: __Dates__: Oct 28-Nov 01
 - :speech_balloon: __Topics__: We begin with an introduction to the package `"testthat"` which provides a nice framework for testing functions. Jointly, we will discuss Shiny apps which provide an interesting companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser. In lab, you'll learn how to perform basic manipulation of strings. 
 - :pencil: __Notes__:
-    + [Intro to testing functions](https://github.com/ucb-stat133/stat133-tutorials/blob/master/11-testing-functions.md) (tutorial)
+    + [Intro to testing functions](tutorials/11-testing-functions.md) (tutorial)
     + [shiny tutorial](slides/shiny-tutorial.pdf) (by Grolemund)    
 - :book: __Reading__:
     + [testthat: Get started with testing](https://github.com/ucb-stat133/stat133-misc/blob/master/testthat-wickham.pdf) (by Wickham)
