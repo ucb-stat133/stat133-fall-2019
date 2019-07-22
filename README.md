@@ -263,7 +263,7 @@ Likewise, we will also describe more generic data objects such as lists.
 - :card_index: __Dates__: Nov 04-08
 - :speech_balloon:  __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Additionally, we continue the discussion about character strings with a first contact to Regular Expressions. 
 - :pencil: __Notes__:
-    + [Introduction to random numbers](https://github.com/ucb-stat133/stat133-tutorials/blob/master/12-intro-to-random-numbers.md)
+    + [Introduction to random numbers](tutorials/12-intro-to-random-numbers.md)
     + [Coin toss shiny app](https://github.com/ucb-stat133/stat133-fall-2018/tree/master/apps/coin-toss)
     + [Regexpal](http://regexpal.com.s3-website-us-east-1.amazonaws.com/) tester tool.
 - :book: __Reading__:
