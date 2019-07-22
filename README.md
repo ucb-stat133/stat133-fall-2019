@@ -229,7 +229,7 @@ Likewise, we will also describe more generic data objects such as lists.
     + [Intro to testing functions](tutorials/11-testing-functions.md) (tutorial)
     + [shiny tutorial](slides/shiny-tutorial.pdf) (by Grolemund)    
 - :book: __Reading__:
-    + [testthat: Get started with testing](https://github.com/ucb-stat133/stat133-misc/blob/master/testthat-wickham.pdf) (by Wickham)
+    + [testthat: Get started with testing](papers/testthat-wickham.pdf) (by Wickham)
     + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
@@ -247,7 +247,7 @@ Likewise, we will also describe more generic data objects such as lists.
 - :pencil: __Notes__:
     + [shiny tutorial](slides/shiny-tutorial.pdf) (by Grolemund)    
 - :book: __Reading__:
-    + [testthat: Get started with testing](https://github.com/ucb-stat133/stat133-misc/blob/master/testthat-wickham.pdf) (by Wickham)
+    + [testthat: Get started with testing](papers/testthat-wickham.pdf) (by Wickham)
     + [Character strings in R](http://www.gastonsanchez.com/r4strings/chars.html) (_r4strings_ by Sanchez)
     + [Basic string manipulations](http://www.gastonsanchez.com/r4strings/manip.html) (_r4strings_ by Sanchez)
     + [chapter 14: Strings](http://r4ds.had.co.nz/strings.html) (_R for Data Science_ by Grolemund and Wickham)
