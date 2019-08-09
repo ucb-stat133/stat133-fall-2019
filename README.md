@@ -12,7 +12,7 @@
 
 + __Instructor:__ Gaston Sanchez
 + __Lecture:__ MWF 9:00-10:00am, 245 Li Ka Shing
-+ Tentative dates subject to change depending on the pace of the course.
++ Tentative topics and dates, subject to change depending on the pace of the course.
 + Notes (:pencil:) involves material discussed in lecture.
 + Reading (:book:) involves material that expands lecture topics, as well as coding examples that you should review/practice on your own.
 
@@ -22,8 +22,8 @@
 
 ## 0. Course Introduction
 
-- :card_index: __Dates__: Aug 28
-- :speech_balloon: __Topics__: Welcome to Stat 133. We begin with the usual review of the course policies, overall logistics, my expectations, topics in a nutshell, etc.
+- :card_index: __Dates__: Aug-28
+- :speech_balloon: __Topics__: Welcome to Stat 133. We begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.
 - :pencil: __Notes__:
     + [Welcome to Stat 133](slides/stat133-00-welcome.pdf)
 - :book: __Reading__:
@@ -41,7 +41,7 @@
 
 ## 1. The Big Picture
 
-- :card_index: __Dates__: Aug 30-Sep 02
+- :card_index: __Dates__: Aug-30, Sep-04
 - :speech_balloon: __Topics__: Let's start with an unconventional introduction to _computing with data_ using my favorite analogy "Data Analysis is a lot like Cooking". At the conceptual level we'll identify the main stages of the data analysis cycle. Also, we should keep in mind that data analysis projects usually start with a Research Question. In addition, we'll describe how Data can actually be seen from a triangular perspective (i.e. my "3 Views of Data"). 
 - :pencil: __Notes__:
     + [Data Analysis is a lot like cooking](slides/stat133-01-dac-cooking.pdf)
@@ -57,12 +57,11 @@
 
 ## 2. R Survival Skills
 
-- :card_index: __Dates__: Sep 04-11, :warning: _mostly in lab_
-- :speech_balloon: __Topics__: In addition to the "Big Picture" concepts, you'll begin learning basic survival skills for R. The main idea is to get a first contact with the RStudio workspace, and become familiar with the Markdown syntax.
+- :card_index: __Dates__: Sep 04-05, :warning: _mostly in lab_
+- :speech_balloon: __Topics__: In addition to the "Big Picture" concepts, you'll begin learning basic survival skills for R. The main idea is to get a first contact with the RStudio workspace, and the Markdown syntax.
 - :book: __Reading__:
     + [First contact with R](tutorials/01-intro-to-R.md) (tutorial)
     + [Intro to Rmd files](tutorials/02-intro-to-Rmd-files.md) (tutorial)
-- :book: __Reading__:
     + [Introduction to R Markdown](http://rmarkdown.rstudio.com/lesson-1.html) (by RStudio)
 - :bulb: __Cheatsheet__: 
     + [RStudio cheat sheet](cheatsheets/rstudio-IDE-cheatsheet.pdf)
@@ -75,7 +74,7 @@
 
 ## 2. Intro to Data Technologies: Data Types, and Data Objects.
 
-- :card_index: __Dates__: Sep 04-11
+- :card_index: __Dates__: Sep 06-11
 - :speech_balloon: __Topics__: How do programming languages and computing environments handle data? To answer this question we'll discuss a couple of fundamental topics such as _data types_ and their implementation in R around _vectors_ and _arrays_. More specifically, we'll focus on concepts like atomicity, vectorization, recycling, and subsetting. Likewise, we will also describe more generic data objects such as lists.
 - :pencil: __Notes__:
     + [Data Types](slides/stat133-06-data-types.pdf)
@@ -94,7 +93,7 @@
 
 ## 3. Intro to Data Technologies (cont'd): Data Frames
 
-- :card_index: __Dates__: Sep 04-11, :warning: _mostly in lab_
+- :card_index: __Dates__: Sep 11-12, :warning: _mostly in lab_
 - :speech_balloon: __Topics__: Besides atomic data objects, we also need to talk about R data frames which provide a nice structure to handle tabular data. You will learn how to manipulate data frames from two approaches: 1) using classic bracket notation, and 2) using a more modern and syntactic way following the _data plying_ framework provided by the package `"dplyr"`.
 - :pencil: __Notes__:
     + Data Frames [part 1](slides/stat133-10-data-frames1.pdf) 
@@ -112,7 +111,7 @@
 
 ## 4. Housekeeping: Filesystem and Bash Commands
 
-- :card_index: __Dates__: Sep 11-13
+- :card_index: __Dates__: Sep 13-16
 - :speech_balloon: __Topics__: At the lowest level, Data Analysis Projects (DAPs) are essentially made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands.
 - :pencil: __Notes__:
     + [Filesystem Basics](slides/stat133-12-filesystem-basics.pdf)
@@ -133,7 +132,7 @@
 
 ## 5. Data Tables: Storage, Organization, Importing, and Unix filters
 
-- :card_index: __Dates__: Sep 16-20
+- :card_index: __Dates__: Sep 18-20
 - :speech_balloon: __Topics__: We continue with a fundamental topic of data technologies: _Data Tables_, the most common form in which data is stored, handled, and manipulated. Because datasets in tabular format are so ubiquitous, we need to talk about how tables are typically stored, learn good principles of data organization, and the so-called notion of "tidy data". You will also learn how to perform basic manipulation of data-table files with some unix filters. Also, we'll examine the relationship between tables and R data frames, as well as some considerations when importing (and exporting) tables in R.
 - :pencil: __Notes__:
     + [Data Tables](slides/stat133-23-data-tables.pdf) (introduction)
