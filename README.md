@@ -132,7 +132,7 @@
 
 ## 5. Data Tables: Storage, Organization, Importing, and Unix filters
 
-- :card_index: __Dates__: Sep 18-20
+- :card_index: __Dates__: Sep 18-25
 - :speech_balloon: __Topics__: We continue with a fundamental topic of data technologies: _Data Tables_, the most common form in which data is stored, handled, and manipulated. Because datasets in tabular format are so ubiquitous, we need to talk about how tables are typically stored, learn good principles of data organization, and the so-called notion of "tidy data". You will also learn how to perform basic manipulation of data-table files with some unix filters. Also, we'll examine the relationship between tables and R data frames, as well as some considerations when importing (and exporting) tables in R.
 - :pencil: __Notes__:
     + [Data Tables](slides/stat133-23-data-tables.pdf) (introduction)
@@ -153,7 +153,7 @@
 
 ## 6. Data Visualization
 
-- :card_index: __Dates__: Sep 30-Oct 04 
+- :card_index: __Dates__: Sep 27-30, Oct-04
 - :speech_balloon: __Topics__: Paraphrasing the old saying "a graphic is word a thousand numbers". No other means of data representation allows us to understand data than visual displays. But in order to make good graphics we need to learn the fundamental concepts for data visualization.  
 - :pencil: __Notes__:
     + [Datavis: Classic Examples](slides/stat133-26-datavis-classic-examples.pdf) and [Introduction](slides/stat133-27-datavis-intro.pdf)
@@ -172,7 +172,7 @@
 
 ## 7. Housekeeping: Version Control with Git and GitHub
 
-- :card_index: __Dates__: Oct 07-11
+- :card_index: __Dates__: Oct 07-09
 - :speech_balloon: __Topics__: We continue talking about filestructure topics, and we introduce basic notions of version control systems (VCS) using Git, and the companion hosting platform GitHub.
 - :pencil: __Notes__:
     + [Git Basics](slides/stat133-19-git-intro.pdf)
