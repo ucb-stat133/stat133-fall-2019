@@ -127,7 +127,7 @@ progress with the course.
 
 - There will be one 50-minute in-class midterm, and one 3-hour final exam.
 - The midterm exam will be held on Friday, October 11th, during class.
-- The final exam will be held on Day, Dec num, at ??-??pm (as scheduled by the university). Rooms will be announced closer to the date.
+- The final exam will be held on Thusrday, Dec-19, 7pm-10pm (as scheduled by the university). Rooms will be announced closer to the date.
 - Unless you have accommodations as determined by the university and approved by the instructor, you must take the midterm and the final at the dates and times provided here. Please check your course schedule and make sure that you have no conflicts with these exams. If you have a conflict with either exam, please contact the Instructor before the end of the second week of classes (before Sep-13). Otherwise, do not take the class if you are not available at these dates and times.
 - We will use _gradescope_ to grade the tests.
 - You will have three days after grades are published on gradescope to request a regrade for the midterm. The final test is NOT eligible for regrades.
@@ -162,7 +162,7 @@ Grades will be assigned using the following weighted components:
 
 - No individual letter grades will be given for midterm, or final.
 - You will get a letter grade for the course that is based on your overall score.
-- In previous semesters of Stat 133, around 35% of the students received grades in the A range, and more than 35% received grades in the B range.
+- In previous semesters of Stat 133, around 35% of the students received grades in the A range, and more than 35% received grades in the B range. (_Exact percentages vary every semester._)
 - Letter grades are final; I don't enter into negotiations with students about grades.
 - Please do not embarrass yourself and me by begging for extra credit or late submissions after final grades have been awarded.
 - Also, please remember that I grade your course performance, not your personal worth.
