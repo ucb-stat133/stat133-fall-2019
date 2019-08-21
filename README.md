@@ -13,7 +13,7 @@
 + __Lecture:__ MWF 9:00-10:00am, 245 Li Ka Shing
 + Tentative topics and dates, subject to change depending on the pace of the course.
 + Notes (:pencil:) involves material discussed in lecture.
-+ Reading (:book:) involves material that expands lecture topics, as well as coding examples that you should review/practice on your own.
++ Reading (:book:) involves material that expands lecture topics, as well as coding examples that you should review/practice outside of class.
 
 
 -----
