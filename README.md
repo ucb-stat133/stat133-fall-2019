@@ -11,6 +11,7 @@
 
 + __Instructor:__ Gaston Sanchez
 + __Lecture:__ MWF 9:00-10:00am, 245 Li Ka Shing
++ __OH:__ MWF 10:30am - 11:30am, 309 Evans
 + Tentative topics and dates, subject to change depending on the pace of the course.
 + Notes (:pencil:) involves material discussed in lecture.
 + Reading (:book:) involves material that expands lecture topics, as well as coding examples that you should review/practice outside of class.
