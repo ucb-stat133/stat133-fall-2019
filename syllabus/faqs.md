@@ -91,7 +91,7 @@ practices and tools that are useful in RR (e.g. Git, GitHub).
 
 ### How do you prepare for tests (midterm and final)?
 
-This course requires many hours of practical work outside class and lab. It also requires reviewing all the material available in the [calendar of topics](../../README.md). Having said that, the midterm and final exams are a way to test your understanding of the various concepts presented in the course. The exams are also a way to test whether you really did all the practical work by yourself.
+This course requires many hours of practical work outside class and lab. It also requires reviewing all the material available in the [calendar of topics](../..). Having said that, the midterm and final exams are a way to test your understanding of the various concepts presented in the course. The exams are also a way to test whether you really did all the practical work by yourself.
 
 In theory, students who do an honest effort in completing all the assignments (e.g. writing commands, understanding commands, learning the syntax, etc) should not struggle answering the tests.
 
