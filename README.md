@@ -2,6 +2,7 @@
 
 - [Policies](syllabus/policies.md)
 - [Staff](syllabus/staff.md)
+- [FAQs](syllabus/faqs.md)
 
 
 -----
