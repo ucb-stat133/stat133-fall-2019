@@ -26,10 +26,9 @@
 - :card_index: __Dates__: Aug-28
 - :speech_balloon: __Topics__: Welcome to Stat 133. We begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.
 - :pencil: __Notes__:
-    + [Welcome to Stat 133](slides/stat133-00-welcome.pdf)
+    + Welcome to Stat 133 (talk and chalk)
 - :book: __Reading__:
     + [Course policies](syllabus/policies.md)
-    + [Piazza etiquette](syllabus/piazza.md)
     + [FAQs](syllabus/faqs.md)
 - :microscope: __Lab__: No lab
 - :speaker: __To Do__: 
