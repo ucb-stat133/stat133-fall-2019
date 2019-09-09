@@ -15,7 +15,7 @@
 | Sargam Jain        | 432 Evans | M 12-4pm | sargam_jain [at] berkeley.edu |
 | Ninh Do            | 432 Evans | Tu 8:30-11am, 2-3:30pm | ninhdo [at] berkeley.edu |
 | Colin Kou          | 432 Evans | WTh 5-6pm, F 10am-12pm | colinkou [at] berkeley.edu |
-| Faraz Tavakoli     | 432 Evans | TBA | ft [at] berkeley.edu |
+| Faraz Tavakoli     | 432 Evans | Th 10:30am-1pm, 5-6:30pm | ft [at] berkeley.edu |
 
 
 - __Lab Sections:__
