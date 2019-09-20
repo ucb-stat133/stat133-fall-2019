@@ -285,8 +285,6 @@ arrange(gsw, height, weight)
 
 -   display the name, team, and salary, of the top-5 highest paid players
 
--   display the name, team, and salary, for the top-5 highest paid players
-
 -   display the name, team, and points3, of the top 10 three-point players
 
 -   create a data frame `gsw_mpg` of GSW players, that contains variables for player name, experience, and `min_per_game` (minutes per game), sorted by `min_per_game` (in descending order)
