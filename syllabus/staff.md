@@ -12,7 +12,7 @@
 |:-------------------|:----------|:----------------------|--------|
 | Gaston Sanchez     | 309 Evans | MW 11am-12pm in 309 Evans | gasigiri [at] berkeley.edu |
 | Cindy Zhang        | 432 Evans | W 1pm-4pm, Th 1-2pm | xinyi_zhang [at] berkeley.edu |
-| Sargam Jain        | 432 Evans | M 12-4pm | sargam_jain [at] berkeley.edu |
+| Sargam Jain        | 434 Evans | Th 11am-2:30pm, 3:30-4pm | sargam_jain [at] berkeley.edu |
 | Ninh Do            | 432 Evans | Tu 10:00am-12:30pm, 2-3:30pm | ninhdo [at] berkeley.edu |
 | Colin Kou          | 432 Evans | WTh 5-6pm, F 10am-12pm | colinkou [at] berkeley.edu |
 | Faraz Tavakoli     | 432 Evans | Th 10:30am-1pm, 5-6:30pm | ft [at] berkeley.edu |
