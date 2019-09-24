@@ -276,7 +276,7 @@ ggplot(data = dat) +
   geom_point(aes(x = points, y = salary))
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](lab04-images/unnamed-chunk-2-1.png)
 
 -   `ggplot()` creates an object of class `"ggplot"`
 -   the main input for `ggplot()` is `data` which must be a data frame
@@ -310,7 +310,7 @@ ggplot(data = dat, aes(x = points, y = salary)) +
   geom_point(aes(color = position))
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](lab04-images/unnamed-chunk-4-1.png)
 
 Maybe you wan to modify the size of the dots in terms of `points3`:
 
@@ -320,7 +320,7 @@ ggplot(data = dat, aes(x = points, y = salary)) +
   geom_point(aes(color = position, size = points3))
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](lab04-images/unnamed-chunk-5-1.png)
 
 To add some transparency effect to the dots, you can use the `alpha` parameter.
 
@@ -330,7 +330,7 @@ ggplot(data = dat, aes(x = points, y = salary)) +
   geom_point(aes(color = position, size = points3), alpha = 0.7)
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](lab04-images/unnamed-chunk-6-1.png)
 
 Notice that `alpha` was specified outside `aes()`. This is because we are not using any column for the `alpha` transparency values.
 
@@ -370,7 +370,7 @@ ggplot(data = dat, aes(x = points, y = salary)) +
   facet_wrap(~ position)
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](lab04-images/unnamed-chunk-7-1.png)
 
 The other faceting function is `facet_grid()`, which allows you to control the layout of the facets (by rows, by columns, etc)
 
@@ -382,7 +382,7 @@ ggplot(data = dat, aes(x = points, y = salary)) +
   geom_smooth(method = loess)
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](lab04-images/unnamed-chunk-8-1.png)
 
 ``` r
 # scatterplot by position
@@ -392,7 +392,7 @@ ggplot(data = dat, aes(x = points, y = salary)) +
   geom_smooth(method = loess)
 ```
 
-![](lab04-importing-ggplot2_files/figure-markdown_github/unnamed-chunk-8-2.png)
+![](lab04-images/unnamed-chunk-8-2.png)
 
 ### Your turn:
 
