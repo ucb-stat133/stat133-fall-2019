@@ -24,8 +24,8 @@ While you work on this assignment, you may want to open Git's cheatsheet:
 
 ------------------------------------------------------------------------
 
-0) Introducing yourself to Git
-------------------------------
+0 Introducing yourself to Git
+-----------------------------
 
 We are assuming that you have installed Git in your computer. To confirm that this is the case, on the terminal type the following command:
 
@@ -59,8 +59,8 @@ Please use your own name and email address. This user name and email will be ass
 
 ------------------------------------------------------------------------
 
-1) Filestructure and Data File
-------------------------------
+1 Filestructure and Data File
+-----------------------------
 
 To help you better prepare for Workout-1, we want you to practice using a more sophisticated file structure. Follow the steps listed below to create the necessary subdirectories.
 
@@ -96,8 +96,8 @@ In your computer, **Outside** the directory for Stat 133, create a directory `gi
 
 ------------------------------------------------------------------------
 
-2) Initialize your Repository
------------------------------
+2 Initialize your Repository
+----------------------------
 
 Let's tell Git to make `gitdemo/` a **repository**, which is the fancy name where Git can store versions of our files:
 
@@ -138,8 +138,8 @@ The "untracked files" message means that there are files in the directory that G
 
 ------------------------------------------------------------------------
 
-3) Adding changes to Git's database
------------------------------------
+3 Adding changes to Git's database
+----------------------------------
 
 How do you tell Git to start tracking changes in a file? We can tell Git to track a file using `git add`:
 
@@ -221,8 +221,8 @@ The command `git log` lists all commits made to a repository in reverse chronolo
 
 ------------------------------------------------------------------------
 
-4) Piping
----------
+4 Piping
+--------
 
 Use the `nba2018-players.csv` data to perform the following tasks. All the commands have to be bash-shell commands (not R commands).
 
@@ -306,8 +306,8 @@ git status
 
 ------------------------------------------------------------------------
 
-5) R script file
-----------------
+5 R script file
+---------------
 
 The second part of this lab involves working with an `R` script file (NOT to confuse with an `Rmd` file).
 
@@ -364,8 +364,8 @@ In addition to loading the packages, sometimes you will also need to load code f
 
 ------------------------------------------------------------------------
 
-5) Exporting some data tables
------------------------------
+6 Exporting some data tables
+----------------------------
 
 After the header, and the loading-packages sections, the next part in your `.R` script involves importing the data. In addition to importing a data table, you are also going to practice exporting tables. That is, writing data tables to external files.
 
@@ -385,8 +385,8 @@ We want you to work with relative paths. To execute the commands that read input
 
 ------------------------------------------------------------------------
 
-6) Exporting some R output
---------------------------
+7 Exporting some R output
+-------------------------
 
 Yyou will produce some summary statistics, and then save the generated output to external text files. To do this, you will have to learn about the `sink()` function, which sends R output to a specified file.
 
@@ -431,8 +431,8 @@ Why would you ever want to `sink()` R outputs to a file? Why not simply display 
 
 ------------------------------------------------------------------------
 
-7) Exporting graphs
--------------------
+8 Exporting graphs
+------------------
 
 In the same way that R output, as it appears on the console, can be exported to some files, you can do the same with graphics and plots. Actually, saving plot images is much more common than `sink()`ing output.
 
