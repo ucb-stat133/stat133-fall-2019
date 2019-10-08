@@ -161,6 +161,7 @@
     + [Datavis: The Visual System](slides/stat133-30-visual-system.pdf)
     + [Datavis: Using Color](slides/stat133-32-using-color.pdf)
     + [Datavis: Effective Charts](slides/stat133-33-effective-charts.pdf)
+    + [Stephen Few's Data Visualization](slides/show-me-the-numbers-Few.pdf)
 - :book: __Reading__:
     + ["ggplot2" lecture](slides/ggplot-karthik.pdf) (by Karthik Ram)
 - :bulb: __Cheat sheet__:
