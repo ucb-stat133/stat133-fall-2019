@@ -163,8 +163,6 @@
 - :bulb: __Cheat sheet__:
     + [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
     + [git cheat sheet](cheatsheets/git-cheatsheet.pdf)
-- :mortar_board: __MIDTERM 1__: Friday Oct-11
-
 
 
 -----
@@ -185,6 +183,7 @@
     + ["ggplot2" lecture](slides/ggplot-karthik.pdf) (by Karthik Ram)
 - :bulb: __Cheat sheet__:
     + [Data visualization with ggplot2](cheatsheets/ggplot2-cheatsheet-2.1.pdf)
+- :mortar_board: __MIDTERM 1__: Friday Oct-11
 
 
 -----
