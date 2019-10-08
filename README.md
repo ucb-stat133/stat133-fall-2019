@@ -72,7 +72,7 @@
 -----
 
 
-## 2. Intro to Data Technologies: Data Types, and Data Objects.
+## 3. Intro to Data Technologies: Data Types, and Data Objects.
 
 - :card_index: __Dates__: Sep 06-11
 - :speech_balloon: __Topics__: How do programming languages and computing environments handle data? To answer this question we'll discuss a couple of fundamental topics such as _data types_ and their implementation in R around _vectors_ and _arrays_. More specifically, we'll focus on concepts like atomicity, vectorization, recycling, and subsetting. Likewise, we will also describe more generic data objects such as lists.
@@ -91,7 +91,7 @@
 -----
 
 
-## 3. Intro to Data Technologies (cont'd): Data Frames
+## 4. Intro to Data Technologies (cont'd): Data Frames
 
 - :card_index: __Dates__: Sep 11-12, :warning: _mostly in lab_
 - :speech_balloon: __Topics__: Besides atomic data objects, we also need to talk about R data frames which provide a nice structure to handle tabular data. You will learn how to manipulate data frames from two approaches: 1) using classic bracket notation, and 2) using a more modern and syntactic way following the _data plying_ framework provided by the package `"dplyr"`.
@@ -109,7 +109,7 @@
 -----
 
 
-## 4. Housekeeping: Filesystem and Bash Commands
+## 5. Housekeeping: Filesystem and Bash Commands
 
 - :card_index: __Dates__: Sep 13-16
 - :speech_balloon: __Topics__: At the lowest level, Data Analysis Projects (DAPs) are essentially made of files and directories. Therefore, we need to review some fundamental concepts such as the file-system, the command line interface, and some basic shell commands.
@@ -130,7 +130,7 @@
 -----
 
 
-## 5. Data Tables: Storage, Organization, Importing, and Unix filters
+## 6. Data Tables: Storage, Organization, Importing, and Unix filters
 
 - :card_index: __Dates__: Sep 18-25
 - :speech_balloon: __Topics__: We continue with a fundamental topic of data technologies: _Data Tables_, the most common form in which data is stored, handled, and manipulated. Because datasets in tabular format are so ubiquitous, we need to talk about how tables are typically stored, learn good principles of data organization, and the so-called notion of "tidy data". You will also learn how to perform basic manipulation of data-table files with some unix filters. Also, we'll examine the relationship between tables and R data frames, as well as some considerations when importing (and exporting) tables in R.
@@ -151,9 +151,28 @@
 -----
 
 
-## 6. Data Visualization
+## 7. Housekeeping: Version Control with Git and GitHub
 
-- :card_index: __Dates__: Sep 27-30, Oct-04
+- :card_index: __Dates__: Oct -02-03, :warning: _mostly in lab_
+- :speech_balloon: __Topics__: We continue talking about filestructure topics, and we introduce basic notions of version control systems (VCS) using Git, and the companion hosting platform GitHub.
+- :pencil: __Notes__:
+    + [Git Basics](slides/stat133-19-git-intro.pdf)
+    + [Git Workflow](slides/stat133-20-git-workflow.pdf)
+- :book: __Reading__:
+    + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
+- :bulb: __Cheat sheet__:
+    + [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
+    + [git cheat sheet](cheatsheets/git-cheatsheet.pdf)
+- :mortar_board: __MIDTERM 1__: Friday Oct-11
+
+
+
+-----
+
+
+## 8. Data Visualization
+
+- :card_index: __Dates__: Sep 30, Oct-09
 - :speech_balloon: __Topics__: Paraphrasing the old saying "a graphic is word a thousand numbers". No other means of data representation allows us to understand data than visual displays. But in order to make good graphics we need to learn the fundamental concepts for data visualization.  
 - :pencil: __Notes__:
     + [Datavis: Classic Examples](slides/stat133-26-datavis-classic-examples.pdf) and [Introduction](slides/stat133-27-datavis-intro.pdf)
@@ -171,26 +190,7 @@
 -----
 
 
-## 7. Housekeeping: Version Control with Git and GitHub
-
-- :card_index: __Dates__: Oct 07-09
-- :speech_balloon: __Topics__: We continue talking about filestructure topics, and we introduce basic notions of version control systems (VCS) using Git, and the companion hosting platform GitHub.
-- :pencil: __Notes__:
-    + [Git Basics](slides/stat133-19-git-intro.pdf)
-    + [Git Workflow](slides/stat133-20-git-workflow.pdf)
-- :book: __Reading__:
-    + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
-- :bulb: __Cheat sheet__:
-    + [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
-    + [git cheat sheet](cheatsheets/git-cheatsheet.pdf)
-- :mortar_board: __MIDTERM 1__: Friday Oct-11
-
-
-
------
-
-
-## 8. Transition to Programming Basics for Data Analysis (part 1)
+## 9. Transition to Programming Basics for Data Analysis (part 1)
 
 - :card_index: __Dates__: Oct 14-18
 - :speech_balloon: __Topics__: You don’t need to be an expert programmer to be a data scientist, but learning more about programming allows you to automate common tasks, and solve new problems with greater ease. We'll discuss how to write basic functions, the notion of R expressions, and an introduction to conditionals. 
@@ -205,7 +205,7 @@
 -----
 
 
-## 9. Programming Basics for Data Analysis (part 2)
+## 10. Programming Basics for Data Analysis (part 2)
 
 - :card_index: __Dates__: Oct 21-25
 - :speech_balloon: __Topics__: In addition to writing functions to reduce duplication in your code, you also need to learn about iteration, which helps you when you need to do the same operation several times. Namely, we review control flow structures such as `for` loops, `while` loops, `repeat` loops, and the `apply` family functions.
@@ -220,7 +220,7 @@
 -----
 
 
-## 10. Testing Functions
+## 11. Testing Functions
 
 - :card_index: __Dates__: Oct 28-Nov 01
 - :speech_balloon: __Topics__: We begin with an introduction to the package `"testthat"` which provides a nice framework for testing functions. Jointly, we will discuss Shiny apps which provide an interesting companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser. In lab, you'll learn how to perform basic manipulation of strings. 
@@ -239,7 +239,7 @@
 -----
 
 
-## 11. Shiny Apps
+## 12. Shiny Apps
 
 - :card_index: __Dates__: Oct 28-Nov 01
 - :speech_balloon: __Topics__: We will discuss Shiny apps which provide an interesting companion to R, making it quick and simple to deliver interactive analysis and graphics on any web browser.
@@ -257,7 +257,7 @@
 -----
 
 
-## 12. More Shiny Apps and Introduction to Regular Expressions
+## 13. More Shiny Apps and Introduction to Regular Expressions
 
 - :card_index: __Dates__: Nov 04-08
 - :speech_balloon:  __Topics__: Random numbers have many applications in science and computer programming, especially when there are significant uncertainties in a phenomenon of interest. In this part of the course we'll look at some basic problems involving working with random numbers and creating simulations. Additionally, we continue the discussion about character strings with a first contact to Regular Expressions. 
@@ -276,7 +276,7 @@
 -----
 
 
-## 13. More Regular Expressions
+## 14. More Regular Expressions
 
 - :card_index: __Dates__: Nov 11-15
 - :speech_balloon:  __Topics__: At its heart, computing involves working with numbers. However, a considerable amount of information and data is in the form of text. To unleash the power of strings manipulation, we need to take things to the next level and learn about Regular Expressions. Namely, Regular expressions are a tool that allows us to describe a certain amount of text called "patterns". We'll describe the basic concepts of regex and the common operations to match text patterns.
@@ -292,7 +292,7 @@
 -----
 
 
-## 14. R packaging (part 1)
+## 15. R packaging (part 1)
 
 - :card_index: __Dates__: Nov 18-22
 - :speech_balloon: __Topics__: Packages are the fundamental units of reproducible R code. They include reusable functions, the documentation that describes how to use them, and sample data. In this part we'll start describing how to turn your code into an R package.
@@ -309,7 +309,7 @@
 -----
 
 
-## 15. R Packaging (part 2)
+## 16. R Packaging (part 2)
 
 - :card_index: __Dates__: Dec 02-06
 - :speech_balloon: __Topics__: Creating an R package can seem overwhelming at first. So we'll keep working on the creation of a relatively basic package. This will give you the opportunity to apply most of the concepts seen in the course.
@@ -324,7 +324,7 @@
 -----
 
 
-## 16. RRR Week and Final Exam
+## 17. RRR Week and Final Exam
 
 - :card_index: __Dates__: Dec 09-13
 - :speech_balloon: __Topics__: Prepare for final examination
