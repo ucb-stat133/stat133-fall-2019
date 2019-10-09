@@ -159,7 +159,7 @@
     + [Git Basics](slides/stat133-19-git-intro.pdf)
     + [Git Workflow](slides/stat133-20-git-workflow.pdf)
 - :book: __Reading__:
-    + Read sections 4 to 9 in Part I [Installation](http://happygitwithr.com/installation-pain.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
+    + Read sections 4 to 9 in Part I [Installation](https://happygitwithr.com/install-git.html) (_Happy Git and GitHub for the useR_ by Jenny Bryan et al.)
 - :bulb: __Cheat sheet__:
     + [Data import cheat sheet](cheatsheets/data-import-cheatsheet.pdf)
     + [git cheat sheet](cheatsheets/git-cheatsheet.pdf)
